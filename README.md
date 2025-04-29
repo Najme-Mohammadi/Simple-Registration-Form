@@ -115,7 +115,6 @@ vbnet
 Copy
 Edit
 
-Let me know if you want to include things like Postman collection, Telegram link, or deployment instructions.
 
 
 
